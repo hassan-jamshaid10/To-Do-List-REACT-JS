@@ -16,7 +16,7 @@ body {
     padding: 20px;
     border-radius: 8px;
     box-shadow: 3px 3px 0 rgb(0, 0, 0), 6px 6px 0 rgb(0, 255, 136);
-    width: 90%;
+    width: 100%;
     max-width: 800px;
     height: auto;
     max-height: 75vh;

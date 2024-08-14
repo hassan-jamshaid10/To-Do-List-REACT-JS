@@ -1,4 +1,4 @@
-import Header from './Header.jsx'
+import Navbar from './Header.jsx'
 import './Nav.css'
 import Taskss from './task.jsx'
 import "./task.css"
@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <Header/>
+      <Navbar/>
       <Taskss/> 
       <Footer/>
     </>
